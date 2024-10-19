@@ -17,7 +17,7 @@ if os.path.exists(output_file):
 #apikey of bscscan
 apikey = "xxx"
 #w3 provider
-w3 = Web3(Web3.HTTPProvider('https://bsc-dataseed1.binance.org/'))
+w3 = Web3(Web3.HTTPProvider('https:/bsc-dataseed1.binance.org/'))
 
 
 
